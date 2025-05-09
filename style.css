@@ -78,6 +78,7 @@ body {
     width: 0px;
     top: 0;
     transform-origin: top;
+    transition-delay: 1s;
     transition: 0.4s;
     z-index: 1;
     pointer-events: none;
@@ -94,7 +95,7 @@ body {
     height: 216px;
     top: 12px;
     left: 12px;
-    transition: 0.2s;
+    transition: 0.3s;
     z-index: 0;
   }
 
